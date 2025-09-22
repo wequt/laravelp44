@@ -33,10 +33,6 @@
     <h1>Main</h1>
     <a href="{{route('about')}}">About</a>
     <a href="/contacts">Contacts</a>
-
-    <header>
-        Выбойщик Артём Юрьевич 2025
-    </header>
 </body>
 
 </html>
